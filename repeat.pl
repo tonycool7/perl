@@ -1,0 +1,1 @@
+sublist(Sub, Test):- concat(L1, List, Test), concat(Sub, L2, List).
